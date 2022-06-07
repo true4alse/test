@@ -14,8 +14,8 @@ function App() {
           <li>contact</li>
         </ul>
         <div className="visual">
-          <video controls>
-            <source src="/video/main2.mp4" type="video/mp4" />
+          <video controls autoplay muted>
+            <source src="/src/video/main2.mp4" type="video/mp4" />
           </video>
         </div>
       </header>
