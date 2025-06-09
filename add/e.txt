@@ -1,9 +1,4 @@
 e file
 
-asdfasdfasdf
-
-<<<<<<< HEAD
 a say
-=======
 
->>>>>>> 4f52ebe4179b59a6a0d9ade51f5c4faf128130ef
